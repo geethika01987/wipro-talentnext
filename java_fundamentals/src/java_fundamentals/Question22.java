@@ -20,6 +20,7 @@ public class Question22 {
 			System.out.println(original+": is not palindrom");
 			
 		}
+		sc.close();
 
 	}
 

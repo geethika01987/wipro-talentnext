@@ -11,6 +11,7 @@ public class Question9 {
 		}else {
 			System.out.println("Special Character");
 		}
+		sc.close();
 		
 	}
 
